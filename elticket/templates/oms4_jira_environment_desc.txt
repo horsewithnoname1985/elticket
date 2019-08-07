@@ -1,0 +1,25 @@
+*Inspection-QA Test-Lab - Release Test 6.5*
+
++Hardware:+
+ELSCAN PC: Fujitsu D3441-S2 (Board)
+Monitor: 2 x acer B246HL (FullHD, 24", DVI-D)
+Camera: 2 x Standard (motorized)
+
++Synchronization:+
+Encoder Wheel (A/B, 1024 pulses/circum, 304.7 mm/circum)
+Print mark sensor (Z)
+
++Software:+
+OMS4 GUI: 6.5.2
+Service Tool: 6.5.0
+Licence Manager: 6.4.1
+Image Manager: 6.4.1
+System Config: 6.5.0
+System Manager: 6.4.6
+Camera Data Config: 6.4.0
+------------------------
+OMS4 GUI (Drawing Number): PC 0026-0010M_ZD
+PC Image (Drawing Number): PC 0027-0010M_ZC
+------------------------
+Java Version: 1.7.0-u80-unofficial (OpenJDK)
+FPGA Version: 20181205

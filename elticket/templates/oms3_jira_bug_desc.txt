@@ -1,0 +1,12 @@
+*Preconditions*:
+> OMS3 is up and running
+> Single motorized camera is used
+> Single monitor is connected
+
+*Steps*:
+1)
+
++Expected:+
+
+
++Observed:+

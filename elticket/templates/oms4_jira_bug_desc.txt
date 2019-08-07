@@ -1,0 +1,10 @@
+*Preconditions*:
+> OMS4 is up and running
+
+*Steps*:
+1)
+
++Expected:+
+
+
++Observed:+

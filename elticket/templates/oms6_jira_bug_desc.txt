@@ -1,0 +1,11 @@
+*Preconditions*:
+> Server is up and running
+> OMS6 GUI is up and running
+
+*Steps*:
+1)
+
++Expected:+
+
+
++Observed:+

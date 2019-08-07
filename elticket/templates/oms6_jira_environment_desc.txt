@@ -1,0 +1,14 @@
+*Inspection-QA Test-Lab - Release Test 2.0*
+
++Hardware:+
+Client PC: Advantech DS-780
+Monitor: canvys RAP2112A, 21.5"
+Server PC: B&R Automation PC 910
+
++Software:+
+OS Version: 2.1.18
+OMS6 Version: 2.0.1-A1
+OMS6 GUI Version: 3.4.11
+Service Page Version: 2.0.9
+Middleware Version: 1.6.5
+Backend Version: 1.8.2

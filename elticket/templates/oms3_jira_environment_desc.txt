@@ -1,0 +1,21 @@
+*Inspection-QA Test-Lab - Release Test 1.5*
+
++Hardware:+
+ELSCAN PC: ZC0808 (Board)
+Monitor: 1 x acer B246HL (FullHD, 24", DVI-D)
+Camera: 1 x Standard, motorized (OM 8110)
+Camera-ID: 1810422007
+
++Synchronization:+
+Type: Software Sync
+A/B: Gear sensor (43 teeth/circum, 304.8 mm circumference -> 7.0686 mm/teeth)
+Repeat size: 635.1 mm
+
++Software:+
+OMS3 Distribution: 1.5.0
+Service Page: 1.4.13
+Bootloader: 1.2.6
+
+------------------------
+OMS3 Image + GUI (Drawing Number): PC 0053-0010M_ZG
+------------------------
