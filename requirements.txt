@@ -6,5 +6,5 @@ PyMsgBox==1.0.6
 PyScreeze==0.1.18
 PyTweening==1.0.3
 selenium==3.141.0
-urllib3==1.24.1
+urllib3==1.24.2
 xlib==0.21
